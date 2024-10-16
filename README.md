@@ -21,8 +21,8 @@ This project uses the **BeIR** (Benchmarking Information Retrieval) datasets, sp
 
 ### Steps to Install
 1.**Clone the repository:**
-   ```bash
-   git clone https://github.com/<your_username>/<repository_name>.git
+
+   https://github.com/Bharathpentela/information_retrieval.git
 
 2.Navigate to the project directory:
 
