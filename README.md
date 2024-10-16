@@ -26,7 +26,8 @@ This project uses the **BeIR** (Benchmarking Information Retrieval) datasets, sp
 
 2.Navigate to the project directory:
 
-    cd <repository_name>
+    cd information_retrieval
+
 
 
 3.Install the required packages
